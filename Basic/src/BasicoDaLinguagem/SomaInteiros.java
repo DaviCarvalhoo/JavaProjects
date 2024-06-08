@@ -1,3 +1,5 @@
+package BasicoDaLinguagem;
+
 import java.util.Scanner;
 
 public class SomaInteiros {
